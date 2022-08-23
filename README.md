@@ -4,11 +4,11 @@ These days Pokemon cards are like lottery tickets, with the most valuable Pokemo
 Link to live demo of project: https://pokemonlottery.netlify.app/
 
 <p align="center">
-  <img src="https://drive.google.com/uc?id=10yewNbIO6HOJHvNT1Ssk6ZjibkJwYOb7" alt="Codewars Profile Header" />
+  <img src="https://drive.google.com/uc?id=10yewNbIO6HOJHvNT1Ssk6ZjibkJwYOb7" alt="Pokemon Lottery home page" />
 </p>
 
 <p align="center">
-  <img src="https://drive.google.com/uc?id=10yGMWReeB7EYOzckbM1nTNJOI1hXwm0G" alt="Codewars Profile Header" />
+  <img src="https://drive.google.com/uc?id=10yGMWReeB7EYOzckbM1nTNJOI1hXwm0G" alt="Pokemon Lottery card search example" />
 </p>
 
 # How It's Made:
